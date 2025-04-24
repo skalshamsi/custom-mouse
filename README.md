@@ -26,11 +26,3 @@ An open-source, customizable gaming mouse inspired by the Razer Naga Pro V2, wit
 2. Install PlatformIO for firmware development
 3. Check the hardware documentation for PCB and 3D printing files
 4. Build and flash the firmware
-
-## Contributing
-
-Contributions are welcome! Please read our [contribution guidelines](CONTRIBUTING.md) before submitting pull requests.
-
-## License
-
-This project is licensed under the GPL-3.0 License - see the [LICENSE](LICENSE) file for details.
